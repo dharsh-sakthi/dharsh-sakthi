@@ -1,4 +1,4 @@
-## Hey there! :wave:
+## Hi there! :wave:
 
 <!--
 **dharsh-sakthi/dharsh-sakthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

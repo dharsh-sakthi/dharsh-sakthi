@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   - 🔭 I am a Computer Science Student intrested in Full Stack Development
   - :seedling: I am currently working on an Assignment Tracker using Flask and MySQL
-  - :thought_balloon: My intrests include creating practical personal projects and basketball
+  - :thought_balloon: My interests include creating practical personal projects and basketball
 </div>
 Languages and Tools:
 <div>
